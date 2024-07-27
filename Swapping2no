@@ -1,0 +1,8 @@
+#Swapping a and b
+a=input("Enter a no a: ")
+b=input("Enter a another no b: ")
+c=a
+a=b
+b=c
+print("a=",a)
+print("b=",b)
